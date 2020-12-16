@@ -83,7 +83,7 @@ If you use the MalConv GCT algorithm or code, please cite our work!
 @inproceedings{malconvGCT,
 author = {Raff, Edward and Fleshman, William and Zak, Richard and Anderson, Hyrum and Filar, Bobby and Mclean, Mark},
 booktitle = {The Thirty-Fifth AAAI Conference on Artificial Intelligence},
-title = {{Classifying Sequences of Extreme Length with Constant Memory\\Applied to Malware Detection}},
+title = {{Classifying Sequences of Extreme Length with Constant Memory Applied to Malware Detection}},
 year = {2021}
 }
 ```
