@@ -1,6 +1,6 @@
 # Classifying Sequences of Extreme Length with Constant Memory Applied to Malware Detection (a.k.a., MalConv2)
 
-This is the PyTorch code implementing the approaches from our AAAI 2021 paper Classifying Sequences of Extreme Length with Constant Memory Applied to Malware Detection. Using it, you can train the original MalConv model faster and using less memory 
+This is the PyTorch code implementing the approaches from our AAAI 2021 paper [Classifying Sequences of Extreme Length with Constant Memory Applied to Malware Detection](https://arxiv.org/abs/2012.09390). Using it, you can train the original MalConv model faster and using less memory 
 than before. You can also train our new MalConv with “Global Channel Gating” (GCG), what allows MalConv to learn feature interactions from across the entire inputs. 
 
 ## Code Organization
@@ -84,7 +84,8 @@ If you use the MalConv GCT algorithm or code, please cite our work!
 author = {Raff, Edward and Fleshman, William and Zak, Richard and Anderson, Hyrum and Filar, Bobby and Mclean, Mark},
 booktitle = {The Thirty-Fifth AAAI Conference on Artificial Intelligence},
 title = {{Classifying Sequences of Extreme Length with Constant Memory Applied to Malware Detection}},
-year = {2021}
+year = {2021},
+url={https://arxiv.org/abs/2012.09390},
 }
 ```
 
